@@ -1,0 +1,13 @@
+{
+    "name": "jadsonor/php-plates-scaffold",
+    "type": "project",
+    "require": {
+        "league/plates": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Jadson Oliveira",
+            "email": "jadson.oli@hotmail.com"
+        }
+    ]
+}

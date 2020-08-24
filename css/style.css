@@ -1,0 +1,26 @@
+html {
+	height: 100%;
+}
+
+body {
+	min-height: 100%;
+}
+
+.navbar-a {
+	margin-left: 10px;
+}
+
+.fullscreen {
+	height: 100vh;
+}
+
+.center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.h1-error-page {
+	margin: 0;
+	padding: 0;
+}
